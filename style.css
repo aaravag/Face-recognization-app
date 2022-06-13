@@ -1,0 +1,21 @@
+body{
+    background-image:url("download.jpg");
+}
+#heading{
+    background-color: aquamarine;
+}
+#welcome{
+    background-color: blueviolet;
+}
+b{
+    background-color: rgb(252, 251, 248);
+    color:darkcyan;
+    font-size: 30px;
+}
+#lab{
+    color: rgb(61, 6, 35);
+    font-size: 20px;
+}
+#Acc{
+    color: rgb(136, 127, 6);
+}
